@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "cowo.me",
+  "Id": "a59f3c5d-ca1b-4ece-b0b5-d45b41c704cf"
+}
